@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{C88BD4E2-0F7B-407B-BDD2-2E50BDD610FD}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment2/Program.cs">
+    <Files>
+      <File FileName="Assignment2/Program.cs" Line="5" Column="20" />
+      <File FileName="Assignment2/Exercise3.cs" Line="33" Column="10" />
+      <File FileName="Assignment2/ByteModify.cs" Line="21" Column="12" />
+      <File FileName="Assignment2/GuessNumber.cs" Line="40" Column="1" />
+      <File FileName="Assignment2/PrintPyramid.cs" Line="28" Column="40" />
+      <File FileName="Assignment2/Greeting.cs" Line="23" Column="31" />
+      <File FileName="Assignment2/CountTo24.cs" Line="29" Column="10" />
+      <File FileName="Assignment2/BirthAnniv.cs" Line="24" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment2" expanded="True">
+            <Node name="Assignment2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assignment2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

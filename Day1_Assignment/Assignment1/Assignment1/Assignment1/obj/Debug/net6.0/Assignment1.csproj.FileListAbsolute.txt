@@ -1,0 +1,15 @@
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment1/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.csproj.AssemblyReference.cache
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment1/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment1/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.AssemblyInfoInputs.cache
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment1/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.AssemblyInfo.cs
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment1/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.csproj.CoreCompileInputs.cache
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment1/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment1/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1.deps.json
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment1/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1.runtimeconfig.json
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment1/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1.dll
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment1/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1.pdb
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment1/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.dll
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment1/Assignment1/Assignment1/obj/Debug/net6.0/refint/Assignment1.dll
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment1/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.pdb
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment1/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.genruntimeconfig.cache
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment1/Assignment1/Assignment1/obj/Debug/net6.0/ref/Assignment1.dll

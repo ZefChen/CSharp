@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2D3532F1-A922-4CDF-816B-0CFF06B39D8B}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment1/YearNano.cs">
+    <Files>
+      <File FileName="Assignment1/Program.cs" Line="4" Column="26" />
+      <File FileName="Assignment1/EmptyClass.cs" Line="23" Column="48" />
+      <File FileName="Assignment1/02UnderstandingTypes.cs" Line="4" Column="36" />
+      <File FileName="Assignment1/YearNano.cs" Line="36" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment1" expanded="True">
+            <Node name="Assignment1" expanded="True">
+              <Node name="YearNano.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assignment1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{BE575EF1-1800-45A4-AA3C-FC3F595C0EBB}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment3ArrayString/URLParse.cs">
+    <Files>
+      <File FileName="Assignment3ArrayString/Program.cs" Line="11" Column="1" />
+      <File FileName="Assignment3ArrayString/CopyArray.cs" Line="25" Column="14" />
+      <File FileName="Assignment3ArrayString/ListManage.cs" Line="37" Column="22" />
+      <File FileName="Assignment3ArrayString/PrimeRange.cs" Line="20" Column="31" />
+      <File FileName="Assignment3ArrayString/Rotate.cs" Line="1" Column="91" />
+      <File FileName="Assignment3ArrayString/Sequence.cs" Line="15" Column="1" />
+      <File FileName="Assignment3ArrayString/MostFrequent.cs" Line="20" Column="44" />
+      <File FileName="Assignment3ArrayString/Comparer.cs" Line="15" Column="1" />
+      <File FileName="Assignment3ArrayString/Reverse2.cs" Line="22" Column="9" />
+      <File FileName="Assignment3ArrayString/Reverse1.cs" Line="1" Column="1" />
+      <File FileName="Assignment3ArrayString/ReverseSentence.cs" Line="30" Column="9" />
+      <File FileName="Assignment3ArrayString/Palin.cs" Line="51" Column="2" />
+      <File FileName="Assignment3ArrayString/URLParse.cs" Line="54" Column="77" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment3ArrayString" expanded="True">
+            <Node name="Assignment3ArrayString" expanded="True">
+              <Node name="URLParse.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assignment3ArrayString PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

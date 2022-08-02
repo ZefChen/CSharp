@@ -1,0 +1,168 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 ArialMT;\f1\froman\fcharset0 TimesNewRomanPSMT;\f2\fswiss\fcharset0 Helvetica;
+\f3\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;\red18\green18\blue18;
+}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c100000\c100000\c100000;\cssrgb\c9020\c9020\c9020;
+}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl560\partightenfactor0
+
+\f0\fs37\fsmilli18667 \cf2 \cb3 \expnd0\expndtw0\kerning0
+01 Introduction to C# and Data Types\cb1 \uc0\u8232 \cb3 Understanding Data Types\cb1 \uc0\u8232 \cb3 Test your Knowledge\cb1 \uc0\u8232 \cb3 1. What type would you choose for the following \'93numbers\'94?\cb1 \uc0\u8232 \cb3 A person\'92s telephone number ------- String\cb1 \uc0\u8232 \cb3 A person\'92s height -------- float\cb1 \uc0\u8232 \cb3 A person\'92s age ------- int\cb1 \uc0\u8232 \cb3 A person\'92s gender (Male, Female, Prefer Not To Answer) ------- Boolean\cb1 \uc0\u8232 \cb3 A person\'92s salary -------- float\cb1 \uc0\u8232 \cb3 A book\'92s ISBN -------- string\cb1 \uc0\u8232 \cb3 A book\'92s price --------- float\cb1 \uc0\u8232 \cb3 A book\'92s shipping weight --------- float\cb1 \uc0\u8232 \cb3 A country\'92s population --------- double \cb1 \uc0\u8232 \cb3 The number of stars in the universe ---------- long\cb1 \uc0\u8232 \cb3 The number of employees in each of the small or medium businesses in the\cb1 \uc0\u8232 \cb3 United Kingdom (up to about 50,000 employees per business) --------- int \cb1 \uc0\u8232 \cb3 2. What are the difference between value type and reference type variables? What is boxing and unboxing?
+\f1\fs32 \
+\pard\pardeftab720\li480\fi-480\sl560\partightenfactor0
+
+\f0\fs37\fsmilli18667 \cf2 -
+\f1\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0\'a0 
+\f0\fs37\fsmilli18667 Value types directly contain their data, but reference types store references to their data (Known as objects).
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 -
+\f1\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0\'a0 
+\f0\fs37\fsmilli18667 Value types will be stored in stack memory while reference type will be stored in heap memory.
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 -
+\f1\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0\'a0 
+\f0\fs37\fsmilli18667 Value type will not be collected by garbage collector, while reference type will be collected by garbage collector.
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 -
+\f1\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0\'a0 
+\f0\fs37\fsmilli18667 Value type can be created by Struct or Enum, while reference type can be created by classes, interfaces, delegates, array.
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 -
+\f1\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0\'a0 
+\f0\fs37\fsmilli18667 Value type cannot accept null values but reference types can accept null values.
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 -
+\f1\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0\'a0 
+\f0\fs37\fsmilli18667 Value types have their own copy of data each, but two reference variable can reference the same object.
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 -
+\f1\fs18\fsmilli9333 \'a0\'a0\'a0\'a0\'a0\'a0 
+\f0\fs37\fsmilli18667 Value types\'92 operation on one cannot effect another, but reference types\'92 operation on one can effect another.
+\f1\fs32 \
+\pard\pardeftab720\li1120\fi-560\sl560\partightenfactor0
+
+\f2\fs37\fsmilli18667 \cf2 n
+\f1\fs18\fsmilli9333 \'a0 
+\f0\fs37\fsmilli18667 Boxing is to convert a value type into a reference type. E.g. object o = i
+\f1\fs32 \
+
+\f2\fs37\fsmilli18667 n
+\f1\fs18\fsmilli9333 \'a0 
+\f0\fs37\fsmilli18667 Unboxing is to convert a reference type back to value type. E.g. int j = (int) o
+\f1\fs32 \
+\pard\pardeftab720\sl560\partightenfactor0
+
+\f0\fs37\fsmilli18667 \cf2 \cb1 \uc0\u8232 \cb3 3. What is meant by the terms managed resource and unmanaged resource in .NET
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 Managed resources are those that are pure .NET code and managed by the runtime and under its direct control.
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 Unmanaged objects are created outside the control of .NET libraries and are not managed by CLR (Common Language Runtime)
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 \cb1 \uc0\u8232 \cb3 4. Whats the purpose of Garbage Collector in .NET?
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 \cb1 The garbage collector manages the allocation and release of memory for an application. For developers working with managed code, this means that you don\'92t have to write code to perform memory management tasks. Automatic memory management can eliminate common problems, such as forgetting to free an object and causing a memory leak or attempting to access memory for an object that\'92s already been freed.\uc0\u8232 \u8232 
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 \cb3 \'a0
+\f1\fs32 \cb1 \
+
+\f0\fs37\fsmilli18667 \cb3 Controlling Flow and Converting Types
+\f1\fs32 \cb1 \
+
+\f0\fs37\fsmilli18667 \cb3 Test your Knowledge\cb1 \uc0\u8232 \cb3 1. What happens when you divide an int variable by 0?
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 It throws an exception.\cb1 \uc0\u8232 \cb3 2. What happens when you divide a double variable by 0?
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 It gets positive infinity\cb1 \uc0\u8232 \cb3 3. What happens when you overflow an int variable, that is, set it to a value beyond its range?
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 It wraps up and become negative.\cb1 \uc0\u8232 \cb3 4. What is the difference between x = y++; and x = ++y;?
+\f1\fs32 \
+\pard\pardeftab720\sl560\partightenfactor0
+
+\f0\fs37\fsmilli18667 \cf4 The\'a0prefix\'a0increment returns the value of a variable\'a0after\'a0it has been incremented. On the other hand, the more commonly used\'a0postfix\'a0increment returns the value of a variable\'a0before\'a0it has been incremented.
+\f1\fs32 \cf2 \
+\pard\pardeftab720\sl560\partightenfactor0
+
+\f0\fs37\fsmilli18667 \cf2 \cb1 \uc0\u8232 \cb3 5. What is the difference between break, continue, and return when used inside a loop statement?
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 \cb1 Break is used for immediate termination of loop.\'a0On the other hand, 'continue' terminate the current iteration and resumes the control to the next iteration of the loop. Return is to is used within a method to return control out of the method.
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 \uc0\u8232 \cb3 6. What are the three parts of a for statement and which of them are required?
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 The for statement includes the three parts needed for loops:\'a0initialize, test, and update.
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 All three of them are optional.
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 7. What is the difference between the = and == operators?
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 The \'93=\'94 is an assignment operator is used to assign the value on the right to the variable on the left.\'a0The '==' operator checks whether the two given operands are equal or not.\cb1 \uc0\u8232 \cb3 8. Does the following statement compile? for ( ; true; ) ;
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 Yes, it does.\cb1 \uc0\u8232 \cb3 9. What does the underscore _ represent in a switch expression?
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 The underscore (_) character\'a0replaces the default keyword to signify that it should match anything if reached.\cb1 \uc0\u8232 \cb3 10. What interface must an object implement to be enumerated over by using the foreach statement?
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 The IEnumerator interface provides iteration over a collection-type object in a class. The\'a0IEnumerable interface\'a0permits enumeration by using a foreach loop
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 \cb1 \
+\'a0
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 \cb3 02 Arrays and Strings\cb1 \uc0\u8232 \cb3 Test your Knowledge\cb1 \uc0\u8232 \cb3 1. When to use String vs. StringBuilder in C#?
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 - While working with the String class, every time you perform some operations on your string, you recreate the entire string in the memory over and over again, whereas StringBuilder allocates some buffer space in the memory and applies modifications into that buffer space.
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 - As the StringBuilder object is mutable, it provides better performance as compared to the String object when heavy string manipulations are involved.
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 - String operations use more memory as compared to StringBuilder because String creates instance after each operation.
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 - String is in System namespce but StringBuilder is in System.Text namespace\cb1 \uc0\u8232 \cb3 2. What is the base class for all arrays in C#?
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 \cb1 The Array class\'a0is the base class for all the arrays in C#\uc0\u8232 3. How do you sort an array in C#?
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 We can sort a one-dimensional array in two ways, using Array.Sort() method and using LINQ query\uc0\u8232 4. What property of an array object can be used to get the total number of elements in an array?
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 Length Property\'a0is used to get the total number of elements in all the dimensions of the Array.\uc0\u8232 5. Can you store multiple data types in System.Array?
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 No, we cannot store multiple datatype in an Array, we can store similar datatype only in an Array.
+\f1\fs32 \
+
+\f0\fs37\fsmilli18667 \uc0\u8232 6. What\'92s the difference between the System.Array.CopyTo() and System.Array.Clone()?
+\f1\fs32 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs37\fsmilli18667 \cf2 The\'a0Clone()\'a0method returns a new array (a shallow copy) object containing all the elements in the original array. The\'a0CopyTo()\'a0method copies the elements into another existing array.\'a0
+\f3\fs24  }

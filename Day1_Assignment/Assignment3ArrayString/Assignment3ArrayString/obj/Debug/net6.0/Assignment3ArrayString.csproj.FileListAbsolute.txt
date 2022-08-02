@@ -1,0 +1,15 @@
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment3ArrayString/Assignment3ArrayString/bin/Debug/net6.0/Assignment3ArrayString
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment3ArrayString/Assignment3ArrayString/bin/Debug/net6.0/Assignment3ArrayString.deps.json
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment3ArrayString/Assignment3ArrayString/bin/Debug/net6.0/Assignment3ArrayString.runtimeconfig.json
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment3ArrayString/Assignment3ArrayString/bin/Debug/net6.0/Assignment3ArrayString.dll
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment3ArrayString/Assignment3ArrayString/bin/Debug/net6.0/Assignment3ArrayString.pdb
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment3ArrayString/Assignment3ArrayString/obj/Debug/net6.0/Assignment3ArrayString.csproj.AssemblyReference.cache
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment3ArrayString/Assignment3ArrayString/obj/Debug/net6.0/Assignment3ArrayString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment3ArrayString/Assignment3ArrayString/obj/Debug/net6.0/Assignment3ArrayString.AssemblyInfoInputs.cache
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment3ArrayString/Assignment3ArrayString/obj/Debug/net6.0/Assignment3ArrayString.AssemblyInfo.cs
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment3ArrayString/Assignment3ArrayString/obj/Debug/net6.0/Assignment3ArrayString.csproj.CoreCompileInputs.cache
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment3ArrayString/Assignment3ArrayString/obj/Debug/net6.0/Assignment3ArrayString.dll
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment3ArrayString/Assignment3ArrayString/obj/Debug/net6.0/refint/Assignment3ArrayString.dll
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment3ArrayString/Assignment3ArrayString/obj/Debug/net6.0/Assignment3ArrayString.pdb
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment3ArrayString/Assignment3ArrayString/obj/Debug/net6.0/Assignment3ArrayString.genruntimeconfig.cache
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment3ArrayString/Assignment3ArrayString/obj/Debug/net6.0/ref/Assignment3ArrayString.dll
