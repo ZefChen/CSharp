@@ -1,0 +1,15 @@
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment4OOP/Assignment4OOP/bin/Debug/net6.0/Assignment4OOP
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment4OOP/Assignment4OOP/bin/Debug/net6.0/Assignment4OOP.deps.json
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment4OOP/Assignment4OOP/bin/Debug/net6.0/Assignment4OOP.runtimeconfig.json
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment4OOP/Assignment4OOP/bin/Debug/net6.0/Assignment4OOP.dll
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment4OOP/Assignment4OOP/bin/Debug/net6.0/Assignment4OOP.pdb
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment4OOP/Assignment4OOP/obj/Debug/net6.0/Assignment4OOP.csproj.AssemblyReference.cache
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment4OOP/Assignment4OOP/obj/Debug/net6.0/Assignment4OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment4OOP/Assignment4OOP/obj/Debug/net6.0/Assignment4OOP.AssemblyInfoInputs.cache
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment4OOP/Assignment4OOP/obj/Debug/net6.0/Assignment4OOP.AssemblyInfo.cs
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment4OOP/Assignment4OOP/obj/Debug/net6.0/Assignment4OOP.csproj.CoreCompileInputs.cache
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment4OOP/Assignment4OOP/obj/Debug/net6.0/Assignment4OOP.dll
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment4OOP/Assignment4OOP/obj/Debug/net6.0/refint/Assignment4OOP.dll
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment4OOP/Assignment4OOP/obj/Debug/net6.0/Assignment4OOP.pdb
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment4OOP/Assignment4OOP/obj/Debug/net6.0/Assignment4OOP.genruntimeconfig.cache
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment4OOP/Assignment4OOP/obj/Debug/net6.0/ref/Assignment4OOP.dll

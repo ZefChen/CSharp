@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{962D3446-C0C6-446D-B081-FBD8F54D965A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment4OOP/School/Person.cs">
+    <Files>
+      <File FileName="Assignment4OOP/Program.cs" Line="7" Column="33" />
+      <File FileName="Assignment4OOP/School/IPersonService.cs" Line="10" Column="2" />
+      <File FileName="Assignment4OOP/School/IInstructorService.cs" Line="10" Column="2" />
+      <File FileName="Assignment4OOP/School/IStudentService.cs" Line="9" Column="6" />
+      <File FileName="Assignment4OOP/School/IDepartmentService.cs" Line="7" Column="16" />
+      <File FileName="Assignment4OOP/School/Student.cs" Line="6" Column="8" />
+      <File FileName="Assignment4OOP/School/Person.cs" Line="23" Column="1" />
+      <File FileName="Assignment4OOP/School/Instructor.cs" Line="4" Column="29" />
+      <File FileName="Assignment4OOP/School/Repository/ICourseService.cs" Line="10" Column="1" />
+      <File FileName="Assignment4OOP/School/Course.cs" Line="6" Column="9" />
+      <File FileName="Assignment4OOP/School/Department.cs" Line="6" Column="9" />
+      <File FileName="Assignment4OOP/ColorValue/Ball.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment4OOP" expanded="True">
+            <Node name="Assignment4OOP" expanded="True">
+              <Node name="ColorValue" expanded="True" />
+              <Node name="School" expanded="True">
+                <Node name="Repository" expanded="True" />
+                <Node name="Person.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assignment4OOP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
