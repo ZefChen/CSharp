@@ -1,0 +1,39 @@
+04 Generics
+
+1. Describe the problem generics address.
+Generics in .NET allow reuse code and the effort put into implementing it. The types and internal data can change without causing code bloat, regardless of whether value or reference types are used. Genetics allow develop, test, and deploy code once, reuse it with any type, including future types, all with full compiler support and type safety.
+
+The generic code does not force the boxing and unboxing of value types, or the down casting of reference types, performance is greatly improved
+
+2. How would you create a list of strings, using the generic List class?
+using System.Collections.Generic;
+a.
+List<Int32> Lint = new List<Int32>();
+b.
+List<string> LString1 = new List<string>(5);
+c.
+string[] AString = { "Cow", "Camel", "Elephant" };// array
+List<string> LString = new List<string>(AString);
+
+3. How many generic type parameters does the Dictionary class have?
+System.Collections.Generic.Dictionary<TKey,TValue> class can contain two types: keys and values. Because a generic type definition is only a template, you cannot create instances of a class, structure, or interface that is a generic type definition.
+
+4. True/False. When a generic class has multiple type parameters, they must all match. -- True
+
+5. What method is used to add items to a List object?
+The Insert method of List<T> class inserts an object at a given position. The first parameter of the method is the 0th based index in the List.<T>.
+The InsertRange() method can insert a collection at the given position.
+6. Name two methods that cause items to be removed from a List.
+•	List<T>RemoveAt()
+•	List<T>Remove()
+•	List<T>RemoveAll()
+•	Except()
+
+7. How do you indicate that a class has a generic type parameter?
+A generic type is declared by specifying a type parameter in an angle brackets after a type name, e.g. TypeName<T> where T is a type parameter.
+
+8. True/False. Generic classes can only have one generic type parameter. -- False
+
+9. True/False. Generic type constraints limit what can be used for the generic type. -- True
+
+10. True/False. Constraints let you use the methods of the thing you are constraining to -- True
