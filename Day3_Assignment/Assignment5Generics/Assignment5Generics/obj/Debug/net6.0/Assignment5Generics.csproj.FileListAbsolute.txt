@@ -1,0 +1,15 @@
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment5Generics/Assignment5Generics/bin/Debug/net6.0/Assignment5Generics
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment5Generics/Assignment5Generics/bin/Debug/net6.0/Assignment5Generics.deps.json
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment5Generics/Assignment5Generics/bin/Debug/net6.0/Assignment5Generics.runtimeconfig.json
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment5Generics/Assignment5Generics/bin/Debug/net6.0/Assignment5Generics.dll
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment5Generics/Assignment5Generics/bin/Debug/net6.0/Assignment5Generics.pdb
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment5Generics/Assignment5Generics/obj/Debug/net6.0/Assignment5Generics.csproj.AssemblyReference.cache
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment5Generics/Assignment5Generics/obj/Debug/net6.0/Assignment5Generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment5Generics/Assignment5Generics/obj/Debug/net6.0/Assignment5Generics.AssemblyInfoInputs.cache
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment5Generics/Assignment5Generics/obj/Debug/net6.0/Assignment5Generics.AssemblyInfo.cs
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment5Generics/Assignment5Generics/obj/Debug/net6.0/Assignment5Generics.csproj.CoreCompileInputs.cache
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment5Generics/Assignment5Generics/obj/Debug/net6.0/Assignment5Generics.dll
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment5Generics/Assignment5Generics/obj/Debug/net6.0/refint/Assignment5Generics.dll
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment5Generics/Assignment5Generics/obj/Debug/net6.0/Assignment5Generics.pdb
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment5Generics/Assignment5Generics/obj/Debug/net6.0/Assignment5Generics.genruntimeconfig.cache
+/Users/chenzefeng/Desktop/Stuff/Antra/CSharp/Assignment/Assignment5Generics/Assignment5Generics/obj/Debug/net6.0/ref/Assignment5Generics.dll
